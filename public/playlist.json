@@ -1,15 +1,15 @@
 [
   {
-    "title": "Kırk Yılda Bir Gibisin",
+    "title": "Once in a Blue Moon",
     "artist": "Violin Practices",
-    "cover": "covers/cover2.jpg",
+    "cover": "covers/cover1.jpg",
     "file": "music/song1.mp3",
     "duration": 123
   },
   {
     "title": "Bones",
     "artist": "Violin Practices",
-    "cover": "covers/cover2.jpg",
+    "cover": "covers/cover1.jpg",
     "file": "music/song2.mp3",
     "duration": 115
   },
@@ -19,13 +19,6 @@
     "cover": "covers/cover2.jpg",
     "file": "music/song3.mp3",
     "duration": 101
-  },
-  {
-    "title": "V (Intro)",
-    "artist": "Violin Practices",
-    "cover": "covers/cover2.jpg",
-    "file": "music/song4.mp3",
-    "duration": 94
   },
   {
     "title": "Наполняем любовью",
