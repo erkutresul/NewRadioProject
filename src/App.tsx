@@ -661,7 +661,7 @@ export default function App() {
                     {displayTrack?.title || 'Bilinmeyen Şarkı'}
                   </h2>
                   <p className="text-sm font-sans font-medium line-clamp-1 truncate text-center md:text-left text-neutral-400">
-                    {displayTrack?.artist || 'Yapay Zeka Radyosu'}
+                    {displayTrack?.artist || 'Bilinmeyen Sanatçı'}
                   </p>
                 </div>
 
