@@ -5,10 +5,10 @@ Radyo, özel bir **Global UTC Senkronizasyon algoritması** kullanarak gerçek r
 
 ## Öne Çıkan Özellikler
 
-- **Zaman Tabanlı Senkronizasyon (UTC)**: Şarkıların toplam süresi üzerinden gün başından itibaren geçen saniyeye göre hangi şarkının çalacağı dinamik hesaplanır.
-- **Modern ve Akıcı Arayüz**: Tailwind CSS ve Framer Motion ile desteklenen şık, neon etkili ve cam görünümlü (glassmorphism) tasarım.
-- **Web Audio API Tabanlı Frekans Analizörü**: Müziğe göre gerçek zamanlı tepki veren animasyonlu ses dalgaları.
-- **Kolay Playlist Yönetimi**: Bir JSON dosyası ile kod yazmadan radyo yayın akışını değiştirebilme.
+- **Zaman Tabanlı Senkronizasyon (UTC)**: *Şarkıların toplam süresi üzerinden gün başından itibaren geçen saniyeye göre hangi şarkının çalacağı dinamik hesaplanır.*
+- **Modern ve Akıcı Arayüz**: *Tailwind CSS ve Framer Motion ile desteklenen şık, neon etkili ve cam görünümlü (glassmorphism) tasarım.*
+- **Web Audio API Tabanlı Frekans Analizörü**: *Müziğe göre gerçek zamanlı tepki veren animasyonlu ses dalgaları.*
+- **Kolay Playlist Yönetimi**: *Bir JSON dosyası ile kod yazmadan radyo yayın akışını değiştirebilme.*
 
 ## Yerel Ortamda Çalıştırma
 
@@ -61,4 +61,4 @@ Radyonuzu hemen yayına almak için bu adımları takip edin:
 
 *Eğer temanın, görsellerin veya müziklerin Github Pages üzerinde tam yüklenmemesi gibi bir sorun yaşarsanız:*
 
-Proje ana dizinindeki `vite.config.ts` dosyasını açın ve `base: './',` ayarını projenizin ismine göre güncelleyin. Örneğin depo isminiz "x-radio" ise: `base: '/x-radio/',` olarak değiştirin ve kodunuzu Github'a tekrar gönderin (push).
+Proje ana dizinindeki `vite.config.ts` dosyasını açın ve `base: './',` ayarını projenizin ismine göre güncelleyin. **Örneğin** depo isminiz "x-radio" ise: `base: '/x-radio/',` olarak değiştirin ve kodunuzu Github'a tekrar gönderin (push).
