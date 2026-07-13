@@ -9,20 +9,20 @@
   {
     "title": "Bones",
     "artist": "Violin Practices",
-    "cover": "covers/cover1.jpg",
+    "cover": "covers/cover3.jpg",
     "file": "music/song2.mp3",
     "duration": 115
   },
   {
     "title": "Rise",
     "artist": "Violin Practices",
-    "cover": "covers/cover2.jpg",
+    "cover": "covers/cover4.jpg",
     "file": "music/song3.mp3",
     "duration": 101
   },
   {
     "title": "Наполняем любовью",
-    "artist": "Ksenia x feat. S6L",
+    "artist": "Ksenia, feat. S6L",
     "cover": "covers/cover2.jpg",
     "file": "music/song5.mp3",
     "duration": 117
@@ -42,7 +42,7 @@
     "duration": 109
   },
   {
-    "title": "Здесь темно (Remastered)",
+    "title": "Здесь темно",
     "artist": "S6L",
     "cover": "covers/cover2.jpg",
     "file": "music/song8.mp3",
