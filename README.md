@@ -60,12 +60,5 @@ Radyonuzu hemen yayına almak için bu adımları takip edin:
 6. İşlem tamamlandığında aynı **Pages** sayfasında size verilen link (örneğin: `https://kullaniciadiniz.github.io/depo-ismi`) üzerinden radyonuza canlı olarak erişebilirsiniz.
 
 *Eğer temanın, görsellerin veya müziklerin Github Pages üzerinde tam yüklenmemesi gibi bir sorun yaşarsanız:*
+
 Proje ana dizinindeki `vite.config.ts` dosyasını açın ve `base: './',` ayarını projenizin ismine göre güncelleyin. Örneğin depo isminiz "x-radio" ise: `base: '/x-radio/',` olarak değiştirin ve kodunuzu Github'a tekrar gönderin (push).
-
-## Kullanılan Teknolojiler
-
-- **React 19**
-- **Vite**
-- **Tailwind CSS v4**
-- **Framer Motion**
-- **Lucide React**
