@@ -39,6 +39,6 @@ Radyoda çalacak şarkıları değiştirmek çok basittir.
 ```
 
 **Önemli Notlar:**
-- Şarkı ses dosyalarınızı (`.mp3`) `/public/music/` klasörüne atın.
+- Şarkı dosyalarınızı (`.mp3`) `/public/music/` klasörüne atın.
 - Şarkı kapak fotoğraflarınızı (`.jpg`, `.png`) `/public/covers/` klasörüne atın.
 - Ayrıca `duration` değeri **saniye** cinsinden tam uzunluk olmalıdır. *Örneğin şarkınız 3 dakika 20 saniye ise `duration: 200` olarak revize edilmelidir.* Aksi takdirde senkronizasyon bozulur.
