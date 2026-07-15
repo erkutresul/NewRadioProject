@@ -44,17 +44,6 @@ export default function App() {
   const [isFirstLoad, setIsFirstLoad] = useState<boolean>(true);
 
   useEffect(() => {
-    const interval = setInterval(() => {
-      setListenerCount((prev) => {
-        const change = Math.floor(Math.random() * 7) - 3;
-        const next = prev + change;
-        return next > 800 ? next : prev;
-      });
-    }, 5000);
-    return () => clearInterval(interval);
-  }, []);
-
-  useEffect(() => {
     if (playlist.length === 0) return;
     
     if (isFirstLoad) {
