@@ -42,7 +42,6 @@ export default function App() {
   const [displayTrackIndex, setDisplayTrackIndex] = useState<number>(0);
   const [isFading, setIsFading] = useState<boolean>(false);
   const [isFirstLoad, setIsFirstLoad] = useState<boolean>(true);
-  const [listenerCount, setListenerCount] = useState<number>(1204);
 
   useEffect(() => {
     const interval = setInterval(() => {
